@@ -22,3 +22,10 @@ More info about configuring Academic Pages can be found in [the guide](https://a
   
 [Shenzhen University (SZU)](https://en.szu.edu.cn/) 
 * Bachelor of Science in Mathematics and Applied Mathematics (Financial Mathematics)
+
+## Awards
+
+* Meritorious Winner, Mathematical Contest in Modeling (2020)
+* First Prize of Guangdong Province, China Undergraduate Mathematical Contest in Modeling (2020)
+* Second Prize of Guangdong Province, The Chinese Mathematics Competitions (2021)
+* Outstanding Graduate, School of Mathematical Sciences, Shenzhen University （2022)
