@@ -14,3 +14,6 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 ## Research Interest
 
 * Spectral problems and the dynamic characteritics of the Degasperis-Procesi equation
+
+## Education
+[School of Mathematical Sciences](https://math.tongji.edu.cn/home/mathen.htm)
