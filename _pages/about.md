@@ -16,4 +16,9 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 * Spectral problems and the dynamic characteritics of the Degasperis-Procesi equation
 
 ## Education
-[School of Mathematical Sciences](https://math.tongji.edu.cn/home/mathen.htm)
+
+[Tongji University](https://en.tongji.edu.cn/p/#/)
+* Master of Science in Mathematics
+  
+[Shenzhen University (SZU)](https://en.szu.edu.cn/) 
+* Bachelor of Science in Mathematics and Applied Mathematics (Financial Mathematics)
