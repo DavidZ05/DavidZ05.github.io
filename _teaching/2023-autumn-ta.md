@@ -1,5 +1,5 @@
 ---
-title: "Advanced Mathematics"
+title: "Advanced Mathematics (teaching assistant)"
 collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2023-autumn-ta
