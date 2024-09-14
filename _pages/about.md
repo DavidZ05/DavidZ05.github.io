@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "David,Jiahao Zhong, 钟嘉浩"
+title: "David Jiahao Zhong 钟嘉浩"
 author_profile: true
 redirect_from: 
   - /about/
