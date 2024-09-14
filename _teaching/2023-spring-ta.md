@@ -1,5 +1,5 @@
 ---
-title: "Real Analysis"
+title: "Real Analysis (teaching assistant)"
 collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-ta
