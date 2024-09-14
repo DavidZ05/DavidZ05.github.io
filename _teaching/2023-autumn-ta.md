@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+title: "Advanced Mathematics"
+collection: teaching assistant
+type: "Undergraduate course"
+permalink: /teaching/2023-autumn-ta
+venue: "School of Mathematical Sciences , Tongji University"
 date: 2023-09-01
-location: "City, Country"
+location: "Shanghai, China"
 ---
 
