@@ -1,5 +1,5 @@
 ---
-title: "My hobby"
+title: "My hobbies"
 
 
 ---
