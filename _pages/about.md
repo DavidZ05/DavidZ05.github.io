@@ -8,8 +8,7 @@ redirect_from:
 ---
 ## About me
 
-I am a third year MSc Student in [School of Mathematical Sciences](https://math.tongji.edu.cn/home/mathen.htm) at the [Tongji University](https://en.tongji.edu.cn/p/#/), supervised by [Prof. Zhou Lingjun](https://math.tongji.edu.cn/info/1253/9572.htm). I have received my bachelor degree in [School of Mathematical Sciences](https://math.szu.edu.cn/en/) at the [Shenzhen University](https://en.szu.edu.cn/) supervised by [Prof. Gu Yanhong](https://math.szu.edu.cn/en/info/1122/1434.htm)
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I am a third year MSc Student in [School of Mathematical Sciences](https://math.tongji.edu.cn/home/mathen.htm) at the [Tongji University](https://en.tongji.edu.cn/p/#/), supervised by [Prof. Zhou Lingjun](https://math.tongji.edu.cn/info/1253/9572.htm). I have received my bachelor degree in [School of Mathematical Sciences](https://math.szu.edu.cn/en/) at the [Shenzhen University](https://en.szu.edu.cn/) supervised by [Prof. Gu Yanhong](https://math.szu.edu.cn/en/info/1122/1434.htm).
 
 ## Research Interest
 
