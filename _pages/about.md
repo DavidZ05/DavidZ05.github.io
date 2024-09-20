@@ -24,7 +24,9 @@ I am a third year MSc Student in [School of Mathematical Sciences](https://math.
 
 ## Awards
 
-* Meritorious Winner, Mathematical Contest in Modeling (2020)
-* First Prize of Guangdong Province, China Undergraduate Mathematical Contest in Modeling (2020)
-* Second Prize of Guangdong Province, The Chinese Mathematics Competitions (2021)
 * Outstanding Graduate, School of Mathematical Sciences, Shenzhen University （2022)
+* Second Prize of Guangdong Province, The Chinese Mathematics Competitions (2021)
+* First Prize of Guangdong Province, China Undergraduate Mathematical Contest in Modeling (2020)
+* Meritorious Winner, Mathematical Contest in Modeling (2020)
+
+
