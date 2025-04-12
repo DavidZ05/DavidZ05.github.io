@@ -13,6 +13,9 @@ I am a third year MSc Student in [School of Mathematical Sciences](https://math.
 ## Research Interest
 
 * Spectral problems and the dynamic characteritics of the Degasperis-Procesi equation
+* Numerical analysis
+* Data analysis
+* Machine learning
 
 ## Education
 
