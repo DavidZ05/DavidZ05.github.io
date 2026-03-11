@@ -17,7 +17,7 @@ I am a third year MSc Student in [School of Mathematical Sciences](https://math.
 * Data analysis-->
 * Machine learning
 * Deep learning
-* Causal infernce
+* Causal inference
 
 ## Education
 
