@@ -20,6 +20,9 @@ I am a third year MSc Student in [School of Mathematical Sciences](https://math.
 ## Education
 
 [Tongji University](https://en.tongji.edu.cn/p/#/)
+* Ph.D. in Artificial Intelligence
+
+[Tongji University](https://en.tongji.edu.cn/p/#/)
 * Master of Science in Mathematics
   
 [Shenzhen University (SZU)](https://en.szu.edu.cn/) 
