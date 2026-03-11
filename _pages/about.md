@@ -13,8 +13,6 @@ I am a Ph.D. in Artificial Intelligence in [Shanghai Research Institute for Inte
 ## Research Interest
 
 * Spectral problems and the dynamic characteritics of the Degasperis-Procesi equation
-<!-- * Numerical analysis
-* Data analysis-->
 * Machine learning
 * Deep learning
 * Causal inference
