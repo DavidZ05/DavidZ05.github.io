@@ -36,4 +36,4 @@ I am a Ph.D. in Artificial Intelligence in [Shanghai Research Institute for Inte
 * Meritorious Winner, Mathematical Contest in Modeling (2020)
 
 
-This page is last updated on **2025/4/12** .
+This page is last updated on {{ site.time | date: "%Y/%m/%d" }}.
