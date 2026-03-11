@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## About me
 
-I am a third year MSc Student in [School of Mathematical Sciences](https://math.tongji.edu.cn/home/mathen.htm) at the [Tongji University](https://en.tongji.edu.cn/p/#/), supervised by [Prof. Zhou Lingjun](https://math.tongji.edu.cn/info/1253/9572.htm). I have received my bachelor degree in [School of Mathematical Sciences](https://math.szu.edu.cn/en/) at the [Shenzhen University](https://en.szu.edu.cn/) supervised by [Prof. Gu Yanhong](https://math.szu.edu.cn/en/info/1122/1434.htm).
+I am a Ph.D. in Artificial Intelligence in [Shanghai Research Institute for Intelligent Autonomous Systems (SRIAS)](https://srias.tongji.edu.cn/main.htm) at the Tongji University, supervised by [Prof. Guan Xiaofei](https://math.tongji.edu.cn/info/1269/9465.htm). I have received my MSc degree in [School of Mathematical Sciences](https://math.tongji.edu.cn/home/mathen.htm) at the [Tongji University](https://en.tongji.edu.cn/p/#/), supervised by [Prof. Zhou Lingjun](https://math.tongji.edu.cn/info/1253/9572.htm). And I have received my bachelor degree in [School of Mathematical Sciences](https://math.szu.edu.cn/en/) at the [Shenzhen University](https://en.szu.edu.cn/) supervised by [Prof. Gu Yanhong](https://math.szu.edu.cn/en/info/1122/1434.htm).
 
 ## Research Interest
 
