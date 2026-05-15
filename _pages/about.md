@@ -16,6 +16,7 @@ I am a Ph.D. in Artificial Intelligence in [Shanghai Research Institute for Inte
 * Machine learning
 * Deep learning
 * Causal inference
+* AI agent
 
 ## Education
 
