@@ -10,4 +10,4 @@ location: "Shanghai, China"
 ---
 
 
-September 1st, 2024 - Now
+September 2nd, 2024 - January 10th, 2025
